@@ -1,0 +1,16 @@
+{
+  "name": "HyperTheme",
+  "dark": true,
+  "author": "HasseNasse",
+  "editorScheme": "/HyperScheme.xml",
+  "ui": {
+    "*": {
+      "background": "#000000",
+      "inactiveBackground": "#000000",
+      "activeBackground": "#000000",
+      "selectionBackground": "#0b293f"
+    },
+    "Label.background": "#F3F6FF",
+    "EditorTabs.inactiveMaskColor": "#000000"
+  }
+}
