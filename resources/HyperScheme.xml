@@ -1,14 +1,15 @@
 <scheme name="HyperTerm " version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-04-19T22:16:38</property>
+    <property name="created">2019-04-22T17:37:59</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-19T22:16:59</property>
-    <property name="originalScheme">HyperTerm</property>
+    <property name="modified">2019-04-22T17:38:49</property>
+    <property name="originalScheme">_@user_HyperTerm</property>
   </metaInfo>
   <colors>
-    <option name="CARET_ROW_COLOR" value="" />
     <option name="CARET_COLOR" value="10ad29" />
+    <option name="CARET_ROW_COLOR" value="" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="0" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">

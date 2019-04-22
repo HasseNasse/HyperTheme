@@ -1,22 +1,13 @@
 <idea-plugin>
-  <id>com.your.company.unique.plugin.id</id>
-  <name>Plugin display name here</name>
+  <id>net.nazarsit</id>
+  <name>HyperTheme</name>
   <version>1.0</version>
-  <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+  <vendor email="hassan.nazar@gmail.com" url="https://github.com/hassenasse">HasseNasse</vendor>
 
-  <description><![CDATA[
-      Enter short description for your plugin here.<br>
-      <em>most HTML tags may be used</em>
-    ]]></description>
-
-  <change-notes><![CDATA[
-      Add change notes here.<br>
-      <em>most HTML tags may be used</em>
-    ]]>
-  </change-notes>
+  <description>HyperTerm inspired IntelliJ IDEA theme with vivid syntaxcolors and a pitch black UI. Drools on the floor..</description>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
-  <idea-version since-build="173.0"/>
+  <idea-version since-build="191.0"/>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
        on how to target different products -->
@@ -26,7 +17,7 @@
 
   <extensions defaultExtensionNs="com.intellij">
     <!-- Add your extensions here -->
-    <themeProvider id="97c85643-d2ea-4c9e-b79b-a0f91455f6c0" path="/null"/>
+    <themeProvider id="97c85643-d2ea-4c9e-b79b-a0f91455f6c0" path="/HyperTheme.theme.json"/>
   </extensions>
 
   <actions>
