@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>net.nazarsit</id>
   <name>HyperTheme</name>
-  <version>1.0</version>
+  <version>1.1</version>
   <vendor email="hassan.nazar@gmail.com" url="https://github.com/hassenasse">HasseNasse</vendor>
 
   <description>HyperTerm inspired IntelliJ IDEA theme with vivid syntaxcolors and a pitch black UI. Drools on the floor..</description>
